@@ -10,7 +10,7 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
-    <string name="email_support">E-mail para Suporte:</string>
+    <string name="email_support">E-mail de Suporte:</string>
     <string name="developer">Desenvolvedor:</string>
     <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">Skins:</string>
@@ -45,7 +45,7 @@
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
-    <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
+    <string name="auto_spectate_killer">Espectar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
 
     <!-- Game/room creation menu (singleplayer) -->
@@ -78,7 +78,7 @@
     <string name="copy_id">Copiar ID</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
-    <string name="change_profile_name">Alterar Nome no Perfil</string>
+    <string name="change_profile_name">Alterar Nome do Perfil</string>
     <string name="enter_profile_name">Insira um Nome no Perfil</string>
     <string name="profile_color">COR DO PERFIL</string>
     <string name="all">Tudo</string>
@@ -173,7 +173,7 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
     <!-- Chat !-->
@@ -256,8 +256,8 @@
     <string name="ur" translatable="false">UR</string>
     <string name="show_ui">Mostrar IU</string>
     <string name="open_menu">Abrir Menu</string>
-    <string name="stop_spectating">Parar de Telar</string>
-    <string name="spectate">Telar</string>
+    <string name="stop_spectating">Parar de Espectar</string>
+    <string name="spectate">Espectar</string>
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
     <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
