@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Um jogador</string>
+    <string name="singleplayer">Um jogado</string>
     <string name="lan_multiplayer">Multijogador via LAN</string>
     <string name="online_multiplayer">Multijogador Online</string>
     <string name="options">Opções</string>
