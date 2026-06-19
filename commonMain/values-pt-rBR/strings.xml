@@ -196,7 +196,7 @@
     <string name="ticket">Ticket</string>
     <string name="free_voidstones">Voidstones Grátis!</string>
     <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio para obter Voidstones!</string>
-    <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
+    <string name="free_voidstones_won">Você ganhou d% Voidstones!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Escolher</string>
@@ -252,7 +252,7 @@
     <string name="ad_reward">Recompensa por anúncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Passe de Temporada</string>
+     <string name="season_pass">Passe da Temporada</string>
      <string name="season_pass_season_number">Temporada %s</string>
      <string name="january">Janeiro</string>
      <string name="february">Fevereiro</string>
@@ -273,7 +273,7 @@
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
-    <string name="not_logged_in">Não conectado(a)!</string>
+    <string name="not_logged_in">Não Conectado(a)!</string>
     <string name="login">Fazer login</string>
     <string name="login_google">Entrar com Google</string>
     <string name="login_apple">Entrar com Apple</string>
@@ -297,7 +297,7 @@
     <string name="unlock_description_color_already_unlocked">Cores para o texto da biografia já desbloqueadas</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
-    <string name="delete_account">EXCLUIR CONTA</string>
+    <string name="delete_account">DELETAR CONTA</string>
     <string name="change_profile_name">Alterar Nome</string>
     <string name="enter_profile_name">Insira um Nome</string>
     <string name="profile_color">COR DO PERFIL</string>
@@ -430,7 +430,7 @@
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Ancião</string>
     <string name="clan_role_member">Membro</string>
-    <string name="clan_name_taken">Este nome do clã já está em uso.</string>
+    <string name="clan_name_taken">Este nome de clã já está em uso.</string>
     <string name="clan_already_member">Já está em um clã.</string>
     <string name="clan_accept_invite_leave_confirm">Já está em um clã. Deseja sair do clã atual e aceitar este convite?</string>
     <string name="clan_promoted">Promovido a %1$s.</string>
@@ -573,7 +573,7 @@
     <string name="mail_title_hint">Título</string>
     <string name="mail_content_hint">Texto</string>
     <string name="mail_recipient_not_found">Destinatário não encontrado(a)</string>
-    <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo.</string>
+    <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo(a).</string>
     <string name="mail_title_too_long">Conteúdo do título muito longo</string>
     <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
     <string name="mail_sent_success">Enviado</string>
@@ -626,7 +626,7 @@
     <string name="adventure_obj_invisible_bots">Bots Invisíveis!</string>
     <string name="adventure_obj_growing_bots">Bots Crescentes!</string>
     <string name="adventure_obj_reach_size">Atinja um Tamanho de %d</string>
-    <string name="adventure_obj_finish_first">Chegue em 1º lugar</string>
+    <string name="adventure_obj_finish_first">Termine em 1º lugar</string>
     <string name="adventure_obj_collect_voidstones">Colete %d Voidstones</string>
 
     <!-- Timer text !-->
@@ -696,7 +696,7 @@
     <string name="server_in_maintenance">Servidor em manutenção</string>
     <string name="server_reboot">Reiniciando o Servidor</string>
     <string name="server_shutdown">Fechando o Servidor</string>
-    <string name="afk_disconnect">Desconectado(a) por AFK</string>
+    <string name="afk_disconnect">Desconectado(a) por inatividade.</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dº</string>
@@ -739,11 +739,11 @@
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_confirm_account_deletion">EXCLUIR CONTA</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
-    <string name="dialog_respawn_warning">Resetar? Todo o seu tamanho será perdido.</string>
+    <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
     <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
     <string name="dialog_connection_error">Erro de Conexão</string>
     <string name="dialog_disconnected">Desconectado</string>
-    <string name="dialog_disconnected_message">Conexão com o servidor perdida.</string>
+    <string name="dialog_disconnected_message">Conexão com o servidor perdido.</string>
     <string name="kicked_from_room">Expulso da Sala!</string>
     <string name="banned_from_room">Banido da Sala!</string>
     <string name="enter_room_name">Insira o Nome da Sala</string>
